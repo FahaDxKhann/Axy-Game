@@ -7,8 +7,6 @@ public class Sattack : MonoBehaviour,IPointerUpHandler,IPointerDownHandler
 {
     public GameObject SattackEffect;
     public GameObject Player;
-    public GameObject AllLights;
-    public GameObject AttackLight;
     public Player PlayerScript;
     private SimpleCameraShakeInCinemachine simpleCameraShakeInCinemachine;
     Vector3 PlayerScale;
@@ -73,8 +71,6 @@ public class Sattack : MonoBehaviour,IPointerUpHandler,IPointerDownHandler
     IEnumerator NichePorleBarberianMorbe1sPor()
     {
         yield return new WaitForSeconds(1f);
-        AllLights.SetActive(true);
-        AttackLight.SetActive(false);
         if(PlayerScript.currentHealth > 0)
         {
             simpleCameraShakeInCinemachine.ShakeElapsedTime = simpleCameraShakeInCinemachine.ShakeDuration;
@@ -89,14 +85,10 @@ public class Sattack : MonoBehaviour,IPointerUpHandler,IPointerDownHandler
     IEnumerator LightChange()
     {
         yield return new WaitForSeconds(5f);
-        AllLights.SetActive(true);
-        AttackLight.SetActive(false);
     }
 
     public void OnPointerDown(PointerEventData eventData)
     {
-        AllLights.SetActive(false);
-        AttackLight.SetActive(true);
         StartCoroutine("NichePorleBarberianMorbe1sPor");
         StartCoroutine("LightChange");
 
