@@ -24,6 +24,7 @@ public class Player : MonoBehaviour
     public Rigidbody2D rb;
     [HideInInspector]
     public Animator anim;
+    public Animator LightAnim;
     [HideInInspector]
     public bool Grounded = true;
     public float SpringJumpSpeed;
@@ -452,7 +453,10 @@ public class Player : MonoBehaviour
         joystickControll.SlowMOPLaying = false;    
     }
 
-    
+    public void LightingAnimation()
+    {
+        LightAnim.SetTrigger("LightAnim");
+    }
 
 
 

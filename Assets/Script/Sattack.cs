@@ -142,6 +142,6 @@ public class Sattack : MonoBehaviour,IPointerUpHandler,IPointerDownHandler
     {
         yield return new WaitForSeconds(15f);
         Instantiat = true;
-    } 
+    }
     
 }
