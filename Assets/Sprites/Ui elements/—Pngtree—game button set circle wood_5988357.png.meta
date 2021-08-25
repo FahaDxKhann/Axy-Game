@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 54b7cec60cbad944da724a63865b9d21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5851511919452461992
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_0"
+  - first:
+      213: 2996237530967846277
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_1"
+  - first:
+      213: 5914515768811129861
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_2"
+  - first:
+      213: -6775873723791997751
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_3"
+  - first:
+      213: 7182809055587381182
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_4"
+  - first:
+      213: 6862089311139942400
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_5"
+  - first:
+      213: -8813920157599957549
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_6"
+  - first:
+      213: 6473188815030436995
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_7"
+  - first:
+      213: 5850361151484989189
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_8"
+  - first:
+      213: 8998603763471698919
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_9"
+  - first:
+      213: -6736623378692659367
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_10"
+  - first:
+      213: 5667604736903921190
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_11"
+  - first:
+      213: -2826358693029696330
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_12"
+  - first:
+      213: -5115676027649373351
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_13"
+  - first:
+      213: -9180385221762228206
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_14"
+  - first:
+      213: 8497929805718673961
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_15"
+  - first:
+      213: -4662772271075958567
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_16"
+  - first:
+      213: -4981721662798336694
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_17"
+  - first:
+      213: -4597664410648325898
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_18"
+  - first:
+      213: 184556011427790666
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_19"
+  - first:
+      213: 5565127538882841451
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_20"
+  - first:
+      213: 4441105251489857019
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_21"
+  - first:
+      213: 1431591439778996992
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_22"
+  - first:
+      213: 2956912947716305046
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_23"
+  - first:
+      213: -4597363100402460722
+    second: "\u2014Pngtree\u2014game button set circle wood_5988357_24"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_0"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 986
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854621279e04bcea0800000000000000
+      internalID: -5851511919452461992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_1"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 986
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d2800e826c49920800000000000000
+      internalID: 2996237530967846277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_2"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 986
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c0f6a51c4941250800000000000000
+      internalID: 5914515768811129861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_3"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 986
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c489729fb247f1a0800000000000000
+      internalID: -6775873723791997751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_4"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 986
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfaeb7a7c67ea360800000000000000
+      internalID: 7182809055587381182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_5"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 742
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000508f1fd90b3f50800000000000000
+      internalID: 6862089311139942400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_6"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 742
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd7997905aaea580800000000000000
+      internalID: -8813920157599957549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_7"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 742
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384cbeb4ee265d950800000000000000
+      internalID: 6473188815030436995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_8"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 742
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f02028878a03150800000000000000
+      internalID: 5850361151484989189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_9"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 740
+        width: 198
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb493c327671ec70800000000000000
+      internalID: 8998603763471698919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_10"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 498
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957ae6faab4b282a0800000000000000
+      internalID: -6736623378692659367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_11"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 498
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62eba7eda7067ae40800000000000000
+      internalID: 5667604736903921190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_12"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 496
+        width: 198
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bca02e4eb1c6c8d0800000000000000
+      internalID: -2826358693029696330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_13"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 498
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b4af1c1c77109b0800000000000000
+      internalID: -5115676027649373351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_14"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 498
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210ed93d748b89080800000000000000
+      internalID: -9180385221762228206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_15"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 254
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ad0146226bee570800000000000000
+      internalID: 8497929805718673961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_16"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 254
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0e9f9e2518a4fb0800000000000000
+      internalID: -4662772271075958567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_17"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 254
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d690fba8e5ddab0800000000000000
+      internalID: -4981721662798336694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_18"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 254
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d9d6f390d130c0800000000000000
+      internalID: -4597664410648325898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_19"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 254
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff05ee6bcaf8200800000000000000
+      internalID: 184556011427790666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_20"
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b0bd4e20e4b3d40800000000000000
+      internalID: 5565127538882841451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_21"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 10
+        width: 198
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdbc2d32b9f1ad30800000000000000
+      internalID: 4441105251489857019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_22"
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 10
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003648f54d80ed310800000000000000
+      internalID: 1431591439778996992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_23"
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 10
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6903268d8a0190920800000000000000
+      internalID: 2956912947716305046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014game button set circle wood_5988357_24"
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 10
+        width: 198
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7d5093e92e230c0800000000000000
+      internalID: -4597363100402460722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

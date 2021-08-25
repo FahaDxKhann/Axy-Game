@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Land
+  - FxTemporaire
+  - Coin
+  - InstantiateRock
+  - Rock
+  - LifeRefele
+  - Spring
+  - Shop
+  - pet
+  - Gate
+  - Spike
+  - Key
+  - InstantiateRock2
+  - Heart
+  - Wall
+  - LeverTrigger
+  - ElectricBallThrowPosition
+  - ElectricBall
+  - Save
+  - UpLand
+  - StopRockSound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Player
+  - Obsticle
+  - pet
+  - Heart
+  - Wall
+  - Gate
+  - Land
+  - BallThrower
+  - DeadEnd
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer-6
+    uniqueID: 465777311
+    locked: 0
+  - name: Layer -5
+    uniqueID: 2860700365
+    locked: 0
+  - name: Layer -2
+    uniqueID: 344339353
+    locked: 0
+  - name: Layer-1
+    uniqueID: 2835655249
+    locked: 0
+  - name: Layer0
+    uniqueID: 3995322391
+    locked: 0
+  - name: Player
+    uniqueID: 3294685535
+    locked: 0
+  - name: Coin
+    uniqueID: 47075687
+    locked: 0
+  - name: layer 1
+    uniqueID: 140901785
+    locked: 0
+  - name: Layer10
+    uniqueID: 1639902621
+    locked: 0

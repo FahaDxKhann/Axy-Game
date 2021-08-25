@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9097151481033563644
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9097151481033563585}
+  - component: {fileID: 9097151481033563646}
+  m_Layer: 0
+  m_Name: SfxManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9097151481033563585
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9097151481033563644}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 950.04376, y: 227.75655, z: -10.7054205}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9097151481033563646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9097151481033563644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bce1a37b11d8f87479d79ecb53b079ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - Name: RunSound
+    Clip: {fileID: 8300000, guid: b8e98838745d4654cb204d7de9505908, type: 3}
+    volume: 0.7
+    pitch: 1
+    loop: 0
+    Source: {fileID: 0}
+  - Name: SwordSound
+    Clip: {fileID: 8300000, guid: 550e96a77c3cafe48a6ebb7bbfdae2e4, type: 3}
+    volume: 0.64
+    pitch: 1
+    loop: 0
+    Source: {fileID: 0}
+  - Name: Sword2Sound
+    Clip: {fileID: 8300000, guid: d70f3244966acf441ac0faeebbb256c3, type: 3}
+    volume: 0.64
+    pitch: 1
+    loop: 0
+    Source: {fileID: 0}
+  - Name: Sword3Sound
+    Clip: {fileID: 8300000, guid: dd8bac9510f85734cb4dca7efcbbb444, type: 3}
+    volume: 0.64
+    pitch: 1
+    loop: 0
+    Source: {fileID: 0}
+  - Name: SpringSound
+    Clip: {fileID: 8300000, guid: 5aa6aaab8f2a20741b96fe3dfff5196d, type: 3}
+    volume: 0.7
+    pitch: 1
+    loop: 0
+    Source: {fileID: 0}
