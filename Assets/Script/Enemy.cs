@@ -183,6 +183,7 @@ public abstract class Enemy : MonoBehaviour
 //JOKHON ATTACK KORBE PLAYER TOKHON DAMAGE HOWA AND MARA JAWA..................................\/
     public void TakeDamage(int damage)
     {
+        sfxManagerScript.PlayOneStop("EnemyAxeHit");
         if (currentHealth > 0){simpleCameraShakeInCinemachine.ShakeElapsedTime = simpleCameraShakeInCinemachine.ShakeDuration;} 
         currentHealth -= damage;
         if(BarberianDied == false)
@@ -216,6 +217,7 @@ public abstract class Enemy : MonoBehaviour
     public void TakeDamageNoEffect(int damage)
     {
         currentHealth -= damage;
+        sfxManagerScript.PlayOneStop("EnemyAxeHit");
         if(currentHealth <= 0)
         {
             BarberianDied = true;
@@ -291,6 +293,10 @@ public abstract class Enemy : MonoBehaviour
     public void AxeSound()
     {
         sfxManagerScript.PLay("SwordSound");
+    }
+    public void RunSound()
+    {
+        sfxManagerScript.PlayOneStop("EnemyRun");
     }
 
 }

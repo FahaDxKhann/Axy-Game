@@ -95,6 +95,7 @@ public class Sattack : MonoBehaviour,IPointerUpHandler,IPointerDownHandler
         if(Instantiat == true )
         {
             Playeranimator.SetBool("Sattack",true);
+            SfxManager.instance.PLay("PlayerJump");
             Sattackrunning = true;
             hitAnimationPlay = false;
         }

@@ -346,6 +346,7 @@ public class Player : MonoBehaviour
 
      public void TakeDamage(int damage)
     {
+        SfxManagerScript.PlayOneStop("PlayerAxeHit");
         if (currentHealth > 0){currentHealth -= damage;}
             
         healthbarscript.SetHealth(currentHealth);
@@ -394,7 +395,6 @@ public class Player : MonoBehaviour
             Time.timeScale = 0.4f;
             StartCoroutine("SlowmoStop");
             PlayerDied = true;
-            SfxManagerScript.Stop("RunSound");
             die();
         }
     }
@@ -456,6 +456,26 @@ public class Player : MonoBehaviour
     public void LightingAnimation()
     {
         LightAnim.SetTrigger("LightAnim");
+    }
+    public void PlayerDieSoundEffect()
+    {
+        SfxManagerScript.PLay("PlayerDie");
+    }
+    public void PlayerAttackSound1()
+    {
+        SfxManagerScript.PlayOneStop("PlayerAttackSound1");
+    }
+    public void PlayerAttackSound2()
+    {
+        SfxManagerScript.PlayOneStop("PlayerAttackSound2");
+    }
+    public void PlayerAttackSound3()
+    {
+        SfxManagerScript.PlayOneStop("PlayerAttackSound3");
+    }
+    public void SpatialAttackSound()
+    {
+        SfxManagerScript.PlayOneStop("SpatialAttackSound");
     }
 
 
